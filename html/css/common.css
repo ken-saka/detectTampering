@@ -1,0 +1,33 @@
+body {
+  margin: 1;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+  background-color: #fff;
+  font: 14px Verdana, Arial,'¥Ò¥é¥®¥Î³Ñ¥´ Pro W3','Hiragino Kaku Gothic Pro',Osaka,'£Í£Ó £Ð¥´¥·¥Ã¥¯', sans-serif;
+  text-align: left;
+  color: #666;
+}
+
+#formarea {
+  background: #092f56 url(./images/bg_header.gif) repeat-x scroll 0 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  font: 14px Verdana, Arial,'¥Ò¥é¥®¥Î³Ñ¥´ Pro W3','Hiragino Kaku Gothic Pro',Osaka,'£Í£Ó £Ð¥´¥·¥Ã¥¯', sans-serif;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
